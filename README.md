@@ -26,4 +26,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 
 
+## Stat
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeju404&show_icons=true&theme=solarized-light)
