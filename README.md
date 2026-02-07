@@ -29,15 +29,10 @@ Here are some ideas to get you started:
 </div>
 
 ### 🧰 Tools
-<p>
-  <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Meta_Ads-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-</p>
+<div align="center">
+   <img src="https://img.shields.io/badge/adobe-C70D2C?style=flat&logo=adobe&logoColor=white" />
+</div>
+
 
     
 ## Stat
