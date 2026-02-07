@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack 🛠
 
-### 💻 Tech
+### 💻 Tech 💻
    <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white" />
    <img src="https://img.shields.io/badge/css-663399?style=flat&logo=css&logoColor=white" />
    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white" />
 
 
-### 🧰 Tools
+### 🧰 Tools 🧰
    <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" />
    <img src="https://img.shields.io/badge/adobe-C70D2C?style=flat&logo=adobe&logoColor=white" />
    <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white" />
@@ -36,7 +36,6 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/badge/googleanalytics-E37400?style=flat&logo=googleanalytics&logoColor=white" />
    <img src="https://img.shields.io/badge/googleads-4285F4?style=flat&logo=googleads&logoColor=white" />
    <img src="https://img.shields.io/badge/meta-0467DF?style=flat&logo=meta&logoColor=white" />
-   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" />
 
 
  
