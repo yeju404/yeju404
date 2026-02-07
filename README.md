@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 
     
 ## Stat
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeju404&show_icons=true&theme=solarized-light)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yeju404&show_icons=true&theme=solarized-light)
