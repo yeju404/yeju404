@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 </div>
 
 
-    
+<p align="center">    
 ## Stat
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yeju404&show_icons=true&theme=solarized-light)
-
+</p>
