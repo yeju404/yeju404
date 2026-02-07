@@ -37,5 +37,3 @@ Here are some ideas to get you started:
 ## Stat
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yeju404&show_icons=true&theme=solarized-light)
 
-## lang
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?yeju404=redcontroller&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
