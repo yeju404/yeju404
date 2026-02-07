@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 ### 🧰 Tools
 <div align="center">
    <img src="https://img.shields.io/badge/adobe-C70D2C?style=flat&logo=adobe&logoColor=white" />
+   <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white" />
+   <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+   <img src="https://img.shields.io/badge/slack-ED1944?style=flat&logo=slack&logoColor=white" />
+   <img src="https://img.shields.io/badge/googleanalytics-E37400?style=flat&logo=googleanalytics&logoColor=white" />
+   <img src="https://img.shields.io/badge/googleads-4285F4?style=flat&logo=googleads&logoColor=white" />
+   <img src="https://img.shields.io/badge/meta-0467DF?style=flat&logo=meta&logoColor=white" />
 </div>
 
 
